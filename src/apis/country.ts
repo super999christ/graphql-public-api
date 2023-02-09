@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { GET_COUNTRY_URL } from '../constants.ts';
+import { GET_COUNTRY_URL } from '../constants';
 
 // Gets country by ISO code (2~3 letters)
 export const getCountry = (code: string): Promise<Country> => {
