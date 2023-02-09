@@ -1,4 +1,4 @@
-# graphql-public-api
+# Coding Challenge - Randall Christ
 
 ## Environment
 `Node.js 16.9`
